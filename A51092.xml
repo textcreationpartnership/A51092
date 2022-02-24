@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A modest examination of the new oath of allegiance by a divine of the Church of England.</title>
+            <author>A. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51092</idno>
+            <idno type="STC">Wing M2363</idno>
+            <idno type="STC">ESTC R5293</idno>
+            <idno type="EEBO-CITATION">12025036</idno>
+            <idno type="OCLC">ocm 12025036</idno>
+            <idno type="VID">52625</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51092)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52625)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 571:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A modest examination of the new oath of allegiance by a divine of the Church of England.</title>
+                  <author>A. B.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oaths --  England.</term>
+               <term>Church and state --  Church of England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52625:1" rendition="simple:additions"/>
+            <p> A Modeſt EXAMINATION Of the NEW OATH OF ALLEGIANCE.</p>
+            <p>By a <hi>DIVINE</hi> of the <hi>Church</hi> of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Randal Taylor</hi> near <hi>Stationers Hall,</hi> in the Year. MDCLXXXIX.</p>
+            <pb facs="tcp:52625:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:52625:2" rendition="simple:additions"/>
+            <head>THE <hi>OATH</hi> of <hi>ALLEGIANCE.</hi>
+            </head>
+            <q>
+               <p>
+                  <hi>
+                     <hi>I A. B.</hi> Do ſincerely promiſe and ſwear, that I will be faithful, and bear true Allegiance to their Majeſties King <hi>WILLIAM</hi> and Queen <hi>MARY. So help me God.</hi>
+                  </hi>
+               </p>
+            </q>
+            <p>
+               <label>Quaere.</label>
+               <lb/> What is meant by this <hi>Allegiance?</hi> And what is it that we promiſe when we take this Oath?</p>
+            <p>
+               <label>The Reſolution.</label>
+               <lb/> The word <hi>(Allegiance)</hi> being a Term of Art is va<g ref="char:EOLhyphen"/>riouſly rendred. But we are not to trouble our ſelves with the ſenſe of it amongſt the <hi>Feudiſts,</hi> from whom it was borowed, but are rather to examine what it may ſignify, according to preſent Uſe and Cuſtom here in <hi>England.</hi>
+            </p>
+            <p>Now this word <hi>[Allegiance]</hi> as applyed to King <hi>Williaem</hi> and Queen <hi>Mary</hi> in this Oath, can denote no other then one of theſe <hi>Two</hi> Things.
+<list>
+                  <item>1. An acknowledgment of their Title. <hi>Or,</hi>
+                  </item>
+                  <item>2. Submiſſion and Obedience to their Govern<g ref="char:EOLhyphen"/>ment.</item>
+               </list>
+            </p>
+            <p>If the former, then the ſenſe of the Oath is this.</p>
+            <pb n="4" facs="tcp:52625:3"/>
+            <p> 
+               <hi>
+                  <hi>I A. B.</hi> Do truely and ſincerely acknwledge, profeſs teſtify and declare in my Conſcience before God and the world, that our Sovereign Lord and Lady King <hi>WILLIAM</hi> and Queen <hi>MARY</hi> are lawful and rightful King and Queen of this Realm, and of all other their Majeſties Do<g ref="char:EOLhyphen"/>minions and Countries: and that I will bear Faith and true Allegiance to their Majeſties as ſuch.</hi>
+            </p>
+            <p>If the latter, then the ſenſe of the Oath ſeems only to be this.</p>
+            <p>
+               <hi>Whereas at preſent I am under the Government, and en<g ref="char:EOLhyphen"/>joy the Protection of King <hi>WILLIAM</hi> and Queen <hi>MARY,</hi> I do faithfully promiſe to ſubmit to this their Government. And that I will not contrive, attempt or encourage any act of Hoſtility, againſt them: But living quietly and peaceably, as a good Subject, in obedience to the Laws, will promote the ſafety of my Country, and the Preſervation of Religion and Civil Society.</hi>
+            </p>
+            <p>Now ſince all Oaths and Promiſes are to be ta<g ref="char:EOLhyphen"/>ken in the ſenſe of the Impoſer, we are next to in<g ref="char:EOLhyphen"/>quire; Whether of theſe <hi>Two</hi> Senſes is intended by this Oath?</p>
+            <p>I think the <hi>latter,</hi> and not the <hi>former.</hi> For theſe Reaſons.
+<list>
+                  <item>1. Had the framers of this Oath any ſuch Deſign <hi>viz. To impoſe an acknowledgment of the King and Queens Title;</hi> they might then eaſily have made uſe of ſuch expreſſions, as would have put the matter out of all Doubt. Or elſe, <hi>mutatis mutandis,</hi> they might have propoſed the former Oath of Allegiance,
+<pb n="5" facs="tcp:52625:3" rendition="simple:additions"/> wherein the King's Title is expreſly acknowledged. Which ſince they have not done, it ſeems highly probable they had no ſuch intention.</item>
+                  <item>2. The very Form of the Oath, <hi>viz. I do promiſe—I will be faithful and bear true Allegiance—</hi>ſeems to exclude ſuch a Senſe. For the Subject matter of a Promiſe is ſomething that is <hi>future</hi> not <hi>preſent.</hi> And conſequently this Oath, being not <hi>Aſſertory</hi> but <hi>Promiſſory,</hi> doth plainly reſpect our future carriage and behaviour; and is not Declarative of our pre<g ref="char:EOLhyphen"/>ſent Sentiment and Opinion. So that if by this word <hi>Allegiance</hi> were meant the acknowledging of their Title; put it into plain Language, and ob<g ref="char:EOLhyphen"/>ſerve how harſh and improper it would be. <hi>viz.</hi> I A. B. Do ſincerely promiſe, it is my Sentiment and Opinion; That King <hi>William</hi> and Queen <hi>Mary</hi> have a juſt and lawful Title. Where 'tis evident, that had this Oath been framed<g ref="char:punc">▪</g> to eſtabliſh the King and Queen's Title, the word ſhould have been <hi>D<g ref="char:EOLunhyphen"/>clare</hi> or <hi>Acknowledg</hi> inſtead of <hi>Promiſe.</hi>
+                  </item>
+                  <item>3. This is yet further ſuggeſted by reflecting on the former Oath of Allegiance. Which being both <hi>Aſſertory</hi> and <hi>Promiſſory,</hi> doth conſiſt of <hi>Two</hi> Parts.
+<list>
+                        <item>1. A recognition of the King's Title.</item>
+                        <item>2. A promiſſe of future Allegiance and Obedience.</item>
+                     </list> Plainly denoting that theſe are <hi>Two</hi> Things; differ<g ref="char:EOLhyphen"/>ent and diſtinct each from other.</item>
+               </list>
+            </p>
+            <p>
+               <hi>However, <hi>you will ſay,</hi> 'tis ſufficiently intimated here<g ref="char:EOLhyphen"/>by; That the King's Title is the true and only ground of our Allegiance: and conſequently, if King <hi>WILLIAM</hi>
+                  <pb n="6" facs="tcp:52625:4"/> and Queen <hi>MARY</hi> have, as yet, no lawful Title; it is then unlawful to take tbis Oath; and to ſwear Allegiance to them.</hi>
+            </p>
+            <p>
+               <label>ANSWER.</label>
+               <lb/> THE Title of King <hi>William</hi> and Queen <hi>Mary</hi> is not now to be diſputed. Thoſe who are diſſatisfied may conſult the Two Houſes: Who are beſt able to reſolve ſuch Scruples, and to vindicate the Ju<g ref="char:EOLhyphen"/>ſtice of their own Proceedings. But private Perſons need not trouble their heads about Titles. 'Tis ſuf<g ref="char:EOLhyphen"/>ficient for ſuch to know; That King <hi>William</hi> and Queen <hi>Mary</hi> are <hi>de facto</hi> King and Queen; And therefore, by the Laws and Statutes of this Realm, there is an Allegiance due to them.</p>
+            <p>By the Statute of 25 <hi>E.</hi> 3. <hi>De proditionibus,</hi> is de<g ref="char:EOLhyphen"/>clared in certain particular Caſes, what Offences ſhall be taken to be Treaſon. <hi>viz. Fait compaſſer on imaginer la mort noſtre Seignior le Roy, Madame ſa Com<g ref="char:EOLhyphen"/>paigne,</hi> &amp;c. <hi>Ou ſi home leve guerre enconter noſtre Seignior le Roy en ſon Realm ou ſoit aidant as enemies noſtre dit Seig<g ref="char:EOLhyphen"/>nior le Roy en ſon Realme, donnant a eux aid, ou comfort en ſon Royalme; ou per aylours.</hi> That is to ſay, <hi>When a Man doth compaſs or imagine the Death of our Lord the King, of my Lady his Queen,</hi> &amp;c. <hi>Or if a Man do levy Mar againſt our Lord the King in his Realm, or be adherent to the Kings Enemies in his Realm, gi<g ref="char:EOLhyphen"/>ving to them aid and comfort in the Realm or elſewhere,</hi> ſuch a Man is declared, by this Act, to be guilty of High Treaſon.</p>
+            <pb n="7" facs="tcp:52625:4" rendition="simple:additions"/>
+            <p> Obſerve now Sir <hi>Edw. Coke</hi>'s Expoſition of this Statute.</p>
+            <p>¶ <hi>Noſtre Seignior le Roy] This Act is to be under<g ref="char:EOLhyphen"/>ſtood of a King in Poſſeſſion of the Crown and King<g ref="char:EOLhyphen"/>dom: For if there be a King regnant in poſſeſſion, al<g ref="char:EOLhyphen"/>though he be Rex de Facto, &amp; non de Jure, yet is he Seig<g ref="char:EOLhyphen"/>nior le Roy within the Purvien of this Statute. And the other that hath Right, and is out of Poſſeſſion, is not within this Art. Nay if Treaſon be commit<g ref="char:EOLhyphen"/>ted againſt a King de Facto, &amp; non de Jure, and after the King de Jure, cometh to the Crown, he ſhall pu<g ref="char:EOLhyphen"/>niſh the Treaſon done to the King de Facto: And a Pardon granted by a King de Jure that is not alſo de Facto, is void.</hi> 3. <hi>Part. of the Inſtitutes, pag.</hi> 7.</p>
+            <p>From which Words this Remark is obvious.</p>
+            <p>If it be High Treaſon to compaſs or imagine the Death of King <hi>William</hi> and Queen <hi>Mary</hi> (who are <hi>de Facto</hi> King and Queen; as being in Poſſeſſion of the Crown and Kingdom.) If it be High Treaſon to le<g ref="char:EOLhyphen"/>vy War againſt King <hi>William</hi> and Queen <hi>Mary;</hi> If it be High Treaſon to adhere, to give aid and comfort to the Enemies of King <hi>William</hi> and Queen <hi>Mary</hi> in the Realm or elſewhere; then it undenyably follows (according to my Lord <hi>Coke</hi>'s Expoſition of this Sta<g ref="char:EOLhyphen"/>tute) That it is the Duty of the People of theſe Na<g ref="char:EOLhyphen"/>tions to Protect and Defend King <hi>William</hi> and Queen <hi>Mary.</hi> To do their beſt endeavour to diſcloſe and make known unto their Majeſty's, all Treaſons and Traiterous Conſpiracies againſt them, and conſe<g ref="char:EOLhyphen"/>quently, There is a Duty, an Homage and <hi>Allegi<g ref="char:EOLhyphen"/>ance</hi> due to them.</p>
+            <pb n="8" facs="tcp:52625:5"/>
+            <p>
+               <label>OBJECTION.</label>
+               <lb/> 
+               <hi>But is not this a ſtrange Gloſs, thus to encourage Uſurpa<g ref="char:EOLhyphen"/>tion; and to fix the Crown upon the Point of the Sword? Sir</hi> Edw. Coke, <hi>though otherwiſe a great Man, had hi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Paſſions <hi>and his</hi> Errors: <hi>And may not this juſtly be reje<g ref="char:EOLhyphen"/>cted as one of his</hi> Miſtakes?</p>
+            <p>
+               <label>ANSWER.</label>
+               <lb/> I was at firſt much ſtartled at this Paſſage. But having obſerved, that not only <hi>Sr. Edw. Coke,</hi> but all <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ers who write of the <hi>Pleas of the Crown</hi> do give the ſame Expoſition, I began to cool in my Cen<g ref="char:EOLhyphen"/>ſures. And ſince<hi>—peritis in ſua arte—</hi>I thought it moſt modeſt to ſuſpect my own Judgment: and did reſt ſatisfied, that there was ſome weighty Rea<g ref="char:EOLhyphen"/>ſon (were I able to explain it) why theſe Sages of the Law did thus Determine.</p>
+            <p>
+               <hi>From theſe Premiſes I infer.</hi>
+               <lb/> That even thoſe who are disſatisfied with the Proceedings of the <hi>CONVENTION:</hi> and who are of O<g ref="char:EOLhyphen"/>pinion, That King <hi>JAMES</hi> by withdrawing his Perſon did not Abdicate the Government: I ſay, even thoſe very Perſons (according to this Expoſition of 25. Edw. 3.) may lawfully Promiſe and Swear <hi>Fidelity</hi> and <hi>true Alle<g ref="char:EOLhyphen"/>giance</hi> to their Majeſties, King <hi>WILLIAM</hi> and Queen <hi>MARY;</hi> who are at leaſt <hi>de facto</hi> King and Queen; and are undoubtedly in Poſſeſſion of the Crown and Kingdom</p>
+         </div>
+         <trailer>FINIS</trailer>
+      </body>
+   </text>
+</TEI>
